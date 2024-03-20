@@ -1,0 +1,32 @@
+//Exercise 23
+let car1= "vitz";
+console.log("Is car1==vitz? then True");
+console.log(car1=="vitz");
+let car2= "sabaru";
+console.log("Is car2==sabaru? then True");
+console.log(car2=="sabaru");
+let car3= "corolla";
+console.log("Is car3==corolla? then True");
+console.log(car3=="corolla");
+let car4= "prado";
+console.log("Is car4==prado? then True");
+console.log(car4=="prado");
+let car5= "civic";
+console.log("Is car5==civic? then True");
+console.log(car5=="civic");
+let car6= "vitz";
+console.log("Is car6!==vitz? then False");
+console.log(car6=="sabaru");
+let car7= "corolla";
+console.log("Is car7!==corolla? then False");
+console.log(car7=="vitz");
+let car8= "civic";
+console.log("Is car8!==civic? then False");
+console.log(car8=="vitz");
+let car9= "sabaru";
+console.log("Is car9!==sabaru? then False");
+console.log(car9=="vitz");
+let car10= "prado";
+console.log("Is car10!==prado? then False");
+console.log(car10=="vitz");
+
